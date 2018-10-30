@@ -1,0 +1,24 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/promise/promise.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/Matter/Matter.js"
+	],
+	"game": [
+		"bin-debug/Cover.js",
+		"bin-debug/EgretRender.js",
+		"bin-debug/GameLevel.js",
+		"bin-debug/Helper.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/MatterPlay.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ScreenSwitch.js",
+		"bin-debug/State.js"
+	]
+}
